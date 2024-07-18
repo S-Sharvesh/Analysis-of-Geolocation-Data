@@ -8,7 +8,7 @@ This project involves the use of K-Means Clustering to find the best accommodati
 
 ![179206460-a263b117-b505-468f-b92e-0aa6440de9ce](https://github.com/user-attachments/assets/99272665-7be0-463d-bf32-317fdbefa8ff)
 
-Result after implementation
+# Result after implementation
 <img width="1021" alt="image" src="https://github.com/user-attachments/assets/5756bf95-ef7f-4946-b304-35b24144b04b">
 
 # Observations
