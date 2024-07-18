@@ -1,5 +1,3 @@
-# Analysis-of-Geolocation-Data
-
 # Exploratory-Analysis-Of-Geolocational-Data
 
 This project involves the use of K-Means Clustering to find the best accommodation for students in any city of your choice by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location.
@@ -14,5 +12,7 @@ This project involves the use of K-Means Clustering to find the best accommodati
 # Observations
 
 1.Cluster 0 (Green) has more restaurents but less gyms and cafes.
+
 2.Cluster 1 (Orange) has maximum restaurents,gyms and cafes.
+
 3.Cluster 2 (Red) has less cafes but more gyms and restaurents.
